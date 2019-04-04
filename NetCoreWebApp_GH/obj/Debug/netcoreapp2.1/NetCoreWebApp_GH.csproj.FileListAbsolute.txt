@@ -1,0 +1,13 @@
+C:\desarrollo\CiDemoGH\CiDemo2\NetCoreWebApp_GH\obj\Debug\netcoreapp2.1\NetCoreWebApp_GH.csproj.CoreCompileInputs.cache
+C:\desarrollo\CiDemoGH\CiDemo2\NetCoreWebApp_GH\bin\Debug\netcoreapp2.1\NetCoreWebApp_GH.deps.json
+C:\desarrollo\CiDemoGH\CiDemo2\NetCoreWebApp_GH\bin\Debug\netcoreapp2.1\NetCoreWebApp_GH.runtimeconfig.json
+C:\desarrollo\CiDemoGH\CiDemo2\NetCoreWebApp_GH\bin\Debug\netcoreapp2.1\NetCoreWebApp_GH.runtimeconfig.dev.json
+C:\desarrollo\CiDemoGH\CiDemo2\NetCoreWebApp_GH\bin\Debug\netcoreapp2.1\NetCoreWebApp_GH.dll
+C:\desarrollo\CiDemoGH\CiDemo2\NetCoreWebApp_GH\bin\Debug\netcoreapp2.1\NetCoreWebApp_GH.pdb
+C:\desarrollo\CiDemoGH\CiDemo2\NetCoreWebApp_GH\obj\Debug\netcoreapp2.1\NetCoreWebApp_GH.RazorAssemblyInfo.cache
+C:\desarrollo\CiDemoGH\CiDemo2\NetCoreWebApp_GH\obj\Debug\netcoreapp2.1\NetCoreWebApp_GH.RazorAssemblyInfo.cs
+C:\desarrollo\CiDemoGH\CiDemo2\NetCoreWebApp_GH\obj\Debug\netcoreapp2.1\NetCoreWebApp_GH.AssemblyInfoInputs.cache
+C:\desarrollo\CiDemoGH\CiDemo2\NetCoreWebApp_GH\obj\Debug\netcoreapp2.1\NetCoreWebApp_GH.AssemblyInfo.cs
+C:\desarrollo\CiDemoGH\CiDemo2\NetCoreWebApp_GH\obj\Debug\netcoreapp2.1\NetCoreWebApp_GH.RazorTargetAssemblyInfo.cache
+C:\desarrollo\CiDemoGH\CiDemo2\NetCoreWebApp_GH\obj\Debug\netcoreapp2.1\NetCoreWebApp_GH.dll
+C:\desarrollo\CiDemoGH\CiDemo2\NetCoreWebApp_GH\obj\Debug\netcoreapp2.1\NetCoreWebApp_GH.pdb
